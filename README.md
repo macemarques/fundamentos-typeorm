@@ -1,6 +1,6 @@
 # Desafio do Nível 02 - BootCamp GoStack (RocketSeat) sobre Banco de dados e upload. Utilizando o TypeORM.
 
-Criada uma API básica de transações financeiras de entrada e saída que permite o cadastro ,listagem e importação dessas transações por meio de um arquivo csv.
+Criada uma API básica de transações financeiras de entrada e saída que permite o cadastro, listagem, remoção e importação dessas transações por meio de um arquivo csv.
 
 ## Manual
 
